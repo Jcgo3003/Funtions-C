@@ -1,4 +1,15 @@
-Intrucionnes para compilar en c
+English
+
+  Instructions for compiling in c
+1 make the code
+2 compile it in the terminal with make 'your_file'
+3 run it with ./your_file
+
+------------------------------------------------------
+
+Español
+
+  Intrucciones para compilar en c
 1 hacer el codigo
 2 compilarlo en el terminal con make 'tu_archivo'
 3 correrlo con ./tu_archivo
