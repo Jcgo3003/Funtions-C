@@ -15,3 +15,5 @@ Español
 1 hacer el codigo
 2 compilarlo en el terminal con make 'tu_archivo'
 3 correrlo con ./tu_archivo
+
+------Ahora esta sera otra rama-----
