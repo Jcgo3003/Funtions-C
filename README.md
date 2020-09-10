@@ -11,3 +11,4 @@ Español
 Diversos ejercicios basicos en C con varias soluciones para lograr un mismo resultado
 
 Author/Autor : Juan C. Gomez
+Actualizando
